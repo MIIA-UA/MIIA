@@ -1,5 +1,5 @@
 # MIIA
-Este repositorio busca recopilar la principal información informática de los cursos de la Maestría en Inteligencia Analítica para la Toma de Decisiones (Analytics) de la Universidad de Los Andes de Colombia.
+Este repositorio busca recopilar la principal información informática de los cursos de la Maestría en Inteligencia Analítica para la Toma de Decisiones (Analytics), de la Universidad de Los Andes de Colombia.
 Podrás encontrar más información de la maestría en el haciendo click [aquí](https://industrial.uniandes.edu.co/es/programas-academicos/maestrias/analytics). 
 ## Cursos 
 | Curso        |Descripción  |
