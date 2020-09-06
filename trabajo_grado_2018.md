@@ -17,6 +17,7 @@ Autores: Jaramillo Sanmiguel, Pablo; Bernal Quiroga, Nicolás y Carvajal Monroy,
 Asesores: [Castillo Hernández, Mario](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000220981) y [Caro Rincón, Carlos Andrés](https://co.linkedin.com/in/carloscaro)
 
 Resumen: "El presente trabajo se enfoca en una problemática que enfrentan las empresas aseguradoras en Colombia para uno de sus productos, que hace parte del portafolio de servicios que ofrecen las empresas de seguros, la cual es la póliza de hogar. Según el concepto que se obtuvo de una empresa líder del mercado asegurador en el país, una de las mayores problemáticas concernientes a esta póliza es la falta de información para diseñarla adecuadamente. Esto quiere decir que las empresas están emitiendo las pólizas sin tener en consideración diferentes factores que pueden impactar el riesgo de incurrir en un siniestro. Debido a lo anterior se realizó un diagnóstico de los diferentes factores sociales, económicos, normativos y de mercado. Estos factores son necesarios tenerlos en consideración para identificar y entender su impacto en la cantidad de hurtos a hogares y, por tanto, en la siniestralidad de una póliza de hogar."--Tomado del Formato de Documento de Grado.
+***
 
 
 
