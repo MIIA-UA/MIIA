@@ -26,4 +26,18 @@ Asesores: [Franco de los Ríos, Camilo Andrés](http://scienti.colciencias.gov.c
 
 Resumen: "El proyecto se desarrolla en la Agencia Nacional del Espectro (ANE), la cual es la entidad encargada de planear, atribuir, controlar y vigilar el espectro radioeléctrico en Colombia y brindar la asesoría técnica en la gestión eficiente del mismo al Ministerio de Tecnologías de la Información y las Comunicaciones (MINTIC) en Colombia. Atendiendo la pregunta ¿Qué efectos a nivel de solicitudes de enlaces microondas ha tenido la aplicación del CNABF según la base de datos de espectro SGE, entre las bandas de 3,7GHz a 23,6 GHz? Esto como insumo para la actualización de las tablas de canalización 2018 - 2019, el proyecto presenta lo siguiente: Un análisis descriptivo de los datos de frecuencias asignadas, usando la información del Sistema de Gestión de Espectro SGE respecto a asignaciones y cancelaciones de frecuencias, teniendo en cuenta tendencias y datos geográficos. Modelos para identificar la posible duración en operación de un enlace microondas por parte de un proveedor de redes y servicios de telecomunicaciones. Planteamiento de una herramienta de visualización de los datos de frecuencias asignadas en la banda de frecuencias de 3,7GHz a 23,6 GHz. Como resultado, el proyecto aporta significativamente con insumos relevantes para la gestión de espectro y la toma de decisiones en los nuevos marcos regulatorios de comunicaciones en Colombia."--Tomado del Formato de Documento de Grado.
 ***
+Titulo: [Análisis de clasificación para una red de corresponsales bancarios en Perú utilizando series de tiempo y datos categóricos](https://biblioteca.uniandes.edu.co/visor_de_tesis/web/?SessionID=L1Rlc2lzMjAxNjk5LzE2NDkxLnBkZg%3D%3D)
 
+Autores: García Hernández, Edgar Andrés
+
+Asesores: [Montes Jiménez, Felipe](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001422815) y [Angulo Díaz, Karen Daniela](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000174841)
+
+Resumen: Una red peruana de corresponsales bancarios, los cuales son comercios habilitados para prestar ciertos servicios financieros a nombre de entidades financieras, busca mejorar su rentabilidad y analizar mejor el comportamiento de sus puntos a lo largo del tiempo, para lo cual solicitó un análisis acerca de la evolución de las transacciones en su red y la relación entre dichos comportamientos transaccionales con el estado actual de sus puntos. Para ello, se empleó un análisis de clúster para series de tiempo sobre datos transaccionales para una red de corresponsales bancarios en Perú a lo largo de tres años, complementado con un random forest para asociar dichos clústeres con características asociadas a los corresponsales, y un modelo de máquina de vectores de soporte (SVM) para relacionar dichos clústeres con el estado actual de los puntos. Se hallaron tres patrones diferentes de comportamiento transaccional, los cuales fueron relacionados exitosamente con dichas características y el estado del corresponsal. A partir de lo anterior, se observó que la red de corresponsales bancarios aún no ha logrado recuperar los niveles transaccionales de hace tres años, al tiempo que necesita expandir sus criterios de selección para incluir tipos de comercio y tener más en cuenta la actividad principal del mismo. Igualmente, se apreció cómo el sector donde está ubicado el comercio afecta el resultado del mismo. Lo anterior agrega valor por medio de insumos cuantitativos para la toma de decisiones de apertura de puntos futuros.
+***
+Titulo: [Modelo de optimización para la asignación de promociones de Coca Cola FEMSA destinada a minimercados de la ciudad de Bogotá]
+
+Autores:
+
+Asesores:
+
+Resumen:
