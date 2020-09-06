@@ -1,6 +1,6 @@
-# Trabajo práctico de grado cohorte 2018
+# Trabajo práctico de grado cohorte 2017
 
-A continuación, encontrará la descripción de algunos de los proyectos de grado realizados por los estudiantes de la cohorte 2018. 
+A continuación, encontrará la descripción de algunos de los proyectos de grado realizados por los estudiantes de la cohorte 2017. 
 ***
 Titulo: [Desarrollo de una herramienta de apoyo a la toma de decisiones en la estructuración e implementación de proyectos en Cifras y Conceptos](https://biblioteca.uniandes.edu.co/visor_de_tesis/web/?SessionID=L1Rlc2lzMjAxNjk5LzE2NTQyLnBkZg%3D%3D)
 
