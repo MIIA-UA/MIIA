@@ -49,3 +49,11 @@ Autores: Arias Rojas, Angela María; Rodríguez Pinzón, Camilo Alejandro; Calvo
 Asesor: [Torres Cadena, Gonzalo](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000157902)
 
 Resumen: "El propósito de este proyecto fue determinar los clientes del segmento pyme con mayor probabilidad de adquirir un producto específico, en los que el área comercial del banco BBVA debía enfocarse para mejorar la efectividad de las campañas. Para esto, se trabajaron diferentes técnicas analíticas de aprendizaje automático y aprendizaje profundo para problemas de clasificación tales como: Modelo de Regresión Logística, Modelo de Análisis Discriminante Lineal (LDA), Modelo Random Forest, Modelo Boosting Tree y Redes Neuronales. Se seleccionó aquel modelo que mejores métricas de desempeño arrojó. Las métricas utilizadas fueron Recall y AUC. Finalmente se identificaron las principales variables que afectan la probabilidad de adquisición de un producto por parte de un cliente pyme."--Tomado del Formato de Documento de Grado.
+***
+Titulo:[Prediciendo la duración de un cliente en una compañía de telecomunicaciones](http://eds.b.ebscohost.com/eds/detail/detail?vid=1&sid=aee2df38-5b3c-4743-8dbb-7357b119ea40%40pdc-v-sessmgr01&bdata=Jmxhbmc9ZXMmc2l0ZT1lZHMtbGl2ZSZzY29wZT1zaXRl#AN=cpu.807193&db=cat07441a)
+
+Autores: Trujillo Moreno, Carlos Alberto
+
+Asesor: [Mura, Ivan](https://www.linkedin.com/in/ivan-mura/?originalSubdomain=co)
+
+Resumen: Con el presente trabajo se busca aplicar el análisis de supervivencia dentro del contexto del calculo del valor de un cliente para una compañía de telecomunicaciones. El objetivo principal es predecir la duración de un cliente por medio de varias metodologías tradicionales como la metodología de Kaplan-Meier y Metodologías de Machine learning, en estas ultimas haciendo enfoque en los métodos basados en árboles como Survival Trees y Random Survival Forest. Se busca entender como la duración se ve afectada por variables relacionadas con el cliente y su experiencia en el marco de un contrato de suscripción pospago. Las metodologías serán implementadas con el software R.
