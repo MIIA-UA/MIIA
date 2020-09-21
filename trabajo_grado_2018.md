@@ -1,4 +1,4 @@
-# Cohorte 2018
+# Trabajo práctico de grado cohorte 2018
 A continuación, encontrará la descripción de algunos de los proyectos de grado realizados por los estudiantes de la cohorte 2018
 ***
 Titulo: [Metodología de Analytics para la gestión óptima de la vegetación que afecta la red de distribución eléctrica ](https://biblioteca.uniandes.edu.co/visor_de_tesis/web/?SessionID=L1Rlc2lzMjAxNjk5LzE5NTg0LnBkZg%3D%3D)
