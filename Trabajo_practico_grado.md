@@ -4,4 +4,4 @@ Durante el último año de la maestría los estudiantes conformaran grupos de tr
 + Cohorte 2019
 + [Cohorte 2018](https://github.com/MIIA-UA/MIIA/blob/master/trabajo_grado_2018.md)
 + [Cohorte 2017](https://github.com/MIIA-UA/MIIA/blob/master/trabajo_grado_2017.md)
-+ Cohorte 2016
++ [Cohorte 2016](https://github.com/MIIA-UA/MIIA/blob/master/trabajo_grado_2016.md)
