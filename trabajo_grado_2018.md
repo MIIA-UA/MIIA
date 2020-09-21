@@ -88,7 +88,7 @@ Resumen: "Redeban Multicolor es una empresa de procesamiento de pagos electróni
 ***
 
 
-Titulo: [Predicción de agotados - Colombian Snacks - Analytics] (http://eds.a.ebscohost.com/eds/detail/detail?vid=0&sid=2a09f64a-73f1-499b-93e9-fb3157bd5739%40sdc-v-sessmgr01&bdata=Jmxhbmc9ZXMmc2l0ZT1lZHMtbGl2ZSZzY29wZT1zaXRl#AN=cpu.830370&db=cat07441a)
+Titulo: [Predicción de agotados - Colombian Snacks - Analytics](http://eds.a.ebscohost.com/eds/detail/detail?vid=0&sid=2a09f64a-73f1-499b-93e9-fb3157bd5739%40sdc-v-sessmgr01&bdata=Jmxhbmc9ZXMmc2l0ZT1lZHMtbGl2ZSZzY29wZT1zaXRl#AN=cpu.830370&db=cat07441a)
 
 Autores: Baquero Mesa, Julián Felipe;  Lozano Zarto, Andrés René  y Noriega Fornaris, Lucila Evelys 
 
@@ -100,7 +100,7 @@ Resumen: "La presencia de productos agotados en los canales de distribución de 
 
 
 
-Titulo: [Modelo predictivo de deserción escolar oficial para Colombia] (http://eds.a.ebscohost.com/eds/detail/detail?vid=0&sid=2a09f64a-73f1-499b-93e9-fb3157bd5739%40sdc-v-sessmgr01&bdata=Jmxhbmc9ZXMmc2l0ZT1lZHMtbGl2ZSZzY29wZT1zaXRl#AN=cpu.830370&db=cat07441a)
+Titulo: [Modelo predictivo de deserción escolar oficial para Colombia](http://eds.a.ebscohost.com/eds/detail/detail?vid=0&sid=2a09f64a-73f1-499b-93e9-fb3157bd5739%40sdc-v-sessmgr01&bdata=Jmxhbmc9ZXMmc2l0ZT1lZHMtbGl2ZSZzY29wZT1zaXRl#AN=cpu.830370&db=cat07441a)
 
 Autores:  Díaz Rodríguez, Diana Rocío; Pardo Moreno, Raúl Andrés y Tovar Moreno, José Alberto. 
 
@@ -110,11 +110,11 @@ Resumen: "Construir una herramienta predictiva de deserción escolar para estima
 
 ***
 
-Titulo: [Modelo de predicción de incumplimiento de pago de solicitudes de crédito de clientes independientes con declaracion de renta como soporte de ingresos ] (http://eds.a.ebscohost.com/eds/detail/detail?vid=0&sid=85c8466f-e81f-4542-bdf1-c039d770632d%40sdc-v-sessmgr03&bdata=Jmxhbmc9ZXMmc2l0ZT1lZHMtbGl2ZSZzY29wZT1zaXRl#AN=cpu.830383&db=cat07441a)
+Titulo: [Modelo de predicción de incumplimiento de pago de solicitudes de crédito de clientes independientes con declaracion de renta como soporte de ingresos ](http://eds.a.ebscohost.com/eds/detail/detail?vid=0&sid=85c8466f-e81f-4542-bdf1-c039d770632d%40sdc-v-sessmgr03&bdata=Jmxhbmc9ZXMmc2l0ZT1lZHMtbGl2ZSZzY29wZT1zaXRl#AN=cpu.830383&db=cat07441a)
 
 Autores:  Jaime Huerfano, Hazel Vanesa;  Téllez Moreno, Sandra Yesell y  Parrado Cubillos, Angélica Viviana.
 
-Asesores: [Villarreal Navarro, Julio] (http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000617890)
+Asesores: [Villarreal Navarro, Julio](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000617890)
 
 Resumen: "En este documento se encuentra el desarrollo e implementación de una metodología para predecir la probabilidad de incumplimiento en solicitudes de crédito de clientes independientes formales. Un cliente independiente es aquel que demuestra su actividad e ingresos a través de la presentación de la Declaración de Renta. Pero, predecir la probabilidad de incumplimiento es un tema ampliamente estudiado y es a lo que los Bancos se dedican. ¿Qué hacemos diferente? Agregamos al análisis una fuente de datos poco convencional, el documento soporte, es decir, la declaración de renta. Esto debido a que la cantidad de solicitudes con ingresos ficticios ha aumentado, esto con el fin de acceder a créditos de mayor cuantía lo que ha generado un aumento en las solicitudes incumplidas y por ende el rendimiento del segmento se ha visto afectado. El paso más importante dentro de nuestra metodología fue la cuantificación de los patrones en el documento soporte y en el tipo de producto solicitado por esto creamos 9 indicadores que denominamos Tips de Alerta, los cuales fueron insumos para los modelos de machine learning desarrollados. Esto nos permitió encontrar un modelo que discriminará de mejor manera a los solicitantes."--Tomado del Formato de Documento de Grado.
 
