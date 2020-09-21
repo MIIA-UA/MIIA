@@ -35,6 +35,7 @@ Resumen: "IMEVI Ltda. es una institución prestadora de servicios en salud visua
 Titulo: [Análisis del poder predictivo de variables sociodemográficas para clasificar resultados de citología cervicouterina en población colombiana](https://biblioteca.uniandes.edu.co/visor_de_tesis/web/?SessionID=L1Rlc2lzMjAxNjk5LzEzNzU2LnBkZg%3D%3D)
 
 Autores:  Alzate, David y Cerero, Juan. 
+
 Asesores: [Mura, Ivan](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000220981)
 
 Resumen: "La importancia de identificar los factores de riesgo asociados a los resultados anormales de los exámenes de citología puede conducir a más estudios para diseñar estrategias de prevención efectivas para la reducción de la incidencia de cáncer de cuello uterino en mujeres colombianas. Analizamos la encuesta demográfica y de salud (DHS) para identificar los factores de riesgo relacionados con los resultados anormales de la citología. Después de limpiar los datos del conjunto de datos obtenidos de DHS 2010 y 2015 en Colombia, utilizamos algoritmos de aprendizaje automático para identificar cuáles son las variables que tienen más importancia y probar su poder predictivo. Estas variables se pueden definir como factores de riesgo y se pueden usar para definir estrategias adicionales para reducir el número de incidencias en resultados anormales o para informar a las mujeres que pueden encajar en un perfil de riesgo de contraer el Virus del Papiloma Humano (VPH)."--Tomado del Formato de Documento de Grado.
